@@ -91,3 +91,19 @@ lib/
 - **Charting**: `fl_chart`
 - **Fonts**: `google_fonts` (Outfit & Inter)
 - **Utility**: `intl`, `shared_preferences`
+<h2>Screenshots</h2>
+<p align="center">
+<img width="392" height="852" alt="Screenshot 2026-06-07 133746" src="https://github.com/user-attachments/assets/597cd385-cd31-4a9c-b85a-4b38806c9dc5" />
+<img width="387" height="847" alt="Screenshot 2026-06-07 133844" src="https://github.com/user-attachments/assets/6c6ae641-f7ba-4003-aa7d-08ba6ddba355" />
+</p>
+<p align="center">
+<img width="390" height="842" alt="Screenshot 2026-06-07 133904" src="https://github.com/user-attachments/assets/99701a5c-91c7-4f7d-b330-743c5c5d354f" />
+<img width="392" height="842" alt="Screenshot 2026-06-07 133947" src="https://github.com/user-attachments/assets/1f82ca41-d4f3-4e90-8f4a-0a307aa7d99d" />
+</p>
+
+
+
+
+
+
+
